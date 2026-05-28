@@ -1,17 +1,13 @@
 {
-  "latestVersion": "4.1",
+  "latestVersion": "4.2",
   "channel": "dev",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v4.1/Riftcrashers_Game_v4.1.zip",
-  "fileName": "Riftcrashers_Game_v4.1.zip",
-  "mandatory": false,
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v4.2/Riftcrashers_Game_v4.2.zip",
+  "fileName": "Riftcrashers_Game_v4.2.zip",
+  "mandatory": true,
   "changelogEn": [
-    "Online update test using GitHub Releases",
-    "Launcher can read a remote manifest",
-    "Launcher can download a build ZIP from the release asset"
+    "Test new update 4.2"
   ],
   "changelogIt": [
-    "Test aggiornamento online tramite GitHub Releases",
-    "Il launcher può leggere un manifest remoto",
-    "Il launcher può scaricare uno ZIP build dagli asset della release"
+    "Provo il nuovo update 4.2"
   ]
 }
