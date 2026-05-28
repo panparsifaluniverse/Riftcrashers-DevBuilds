@@ -1,0 +1,17 @@
+{
+  "latestVersion": "4.0",
+  "channel": "dev",
+  "downloadUrl": "DA_COMPILARE_DOPO",
+  "fileName": "Riftcrashers_Game_v4.0.zip",
+  "mandatory": false,
+  "changelogEn": [
+    "Online update test using GitHub Releases",
+    "Launcher can read a remote manifest",
+    "Launcher can download a build ZIP from the release asset"
+  ],
+  "changelogIt": [
+    "Test aggiornamento online tramite GitHub Releases",
+    "Il launcher può leggere un manifest remoto",
+    "Il launcher può scaricare uno ZIP build dagli asset della release"
+  ]
+}
