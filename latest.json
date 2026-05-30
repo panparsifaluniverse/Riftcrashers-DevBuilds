@@ -1,19 +1,13 @@
 {
-  "latestVersion": "4.4",
-  "channel": "dev",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v4.4/Riftcrashers_Game_v4.4.zip",
-  "fileName": "Riftcrashers_Game_v4.4.zip",
+  "latestVersion": "4.5",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v4.5/Riftcrashers_dev_build_4.5.zip",
+  "fileName": "Riftcrashers_dev_build_4.5.zip",
   "mandatory": true,
   "changelogEn": [
-    "a",
-    "s",
-    "df",
-    "f"
+    "FInal test launcher game update"
   ],
   "changelogIt": [
-    "y",
-    "u",
-    "i",
-    "o"
-  ]
+    "Test finale launcher aggiornamento gioco"
+  ],
+  "channel": "dev"
 }
