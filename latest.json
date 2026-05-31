@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.4",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.4/Riftcrashers_dev_build_1.4.zip",
-  "fileName": "Riftcrashers_dev_build_1.4.zip",
+  "latestVersion": "1.2",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.2/Riftcrashers_dev_build_1.2.zip",
+  "fileName": "Riftcrashers_dev_build_1.2.zip",
   "mandatory": true,
   "changelogEn": [
     "General Controller mapping"
