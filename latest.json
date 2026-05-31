@@ -1,13 +1,17 @@
 {
-  "latestVersion": "4.5",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v4.5/Riftcrashers_dev_build_4.5.zip",
-  "fileName": "Riftcrashers_dev_build_4.5.zip",
+  "latestVersion": "1.2",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.2/Riftcrashers_dev_build_1.2.zip",
+  "fileName": "Riftcrashers_dev_build_1.2.zip",
   "mandatory": true,
   "changelogEn": [
-    "FInal test launcher game update"
+    "New, Outlaw enemy",
+    "New, Combo System",
+    "Improved Gameplay"
   ],
   "changelogIt": [
-    "Test finale launcher aggiornamento gioco"
+    "Nuovo nemico: Outlaw",
+    "Nuovo sistema di combo",
+    "Giocabilità migliorata"
   ],
   "channel": "dev"
 }
