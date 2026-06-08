@@ -1,27 +1,27 @@
 {
-  "latestVersion": "1.5",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.5/Riftcrashers_dev_build_1.5.zip",
-  "fileName": "Riftcrashers_dev_build_1.5.zip",
+  "latestVersion": "1.6",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.6/Riftcrashers_dev_build_1.6.zip",
+  "fileName": "Riftcrashers_dev_build_1.6.zip",
   "mandatory": true,
   "changelogEn": [
-    "New! Performance Evaluation System",
-    "New! End-of-Stage Report",
+    "New! Performance Rating System",
+    "New! End-of-Stage Results Screen",
     "New! Arena Management System",
     "New! Game Over Screen",
-    "New! Completely redesigned Lane System",
-    "New! Buff/Bonus icons visible in the UI",
-    "New! “Spiked Balls” trap in the elevator section",
-    "New! Added a “Go” prompt when the player is stationary",
+    "New! Completely Reworked Lane System",
+    "New! Buff and Bonus Icons are now displayed in the UI",
+    "New! Added the “Spiked Balls” trap to the elevator section",
+    "New! Added a “GO” prompt when the player remains idle",
     "Added new environmental elements",
     "Improved enemy pathfinding",
-    "Enemies attack crates they consider a nuisance",
-    "Fixed shadows when flying over or falling into ditches",
-    "Fixed acceleration when enemies start moving",
-    "Fixed death animation for robot enemies when killed in mid-air",
-    "Fixed enemy walking animation that would stop",
-    "Fixed drops no longer getting stuck off the map",
-    "Known Issue: Enemies may get stuck in corners",
-    "Known Issue: When there are too many sounds, the audio skips"
+    "Enemies can now attack crates they consider obstacles",
+    "Fixed shadows when jumping over or falling into pits",
+    "Fixed an acceleration issue when enemies started moving",
+    "Fixed the robot enemies’ death animation when defeated in mid-air",
+    "Fixed an issue where enemy walking animations could stop playing",
+    "Fixed an issue where item drops could get stuck outside the map",
+    "Known Issue: Enemies may occasionally get stuck in corners",
+    "Known Issue: Audio may cut out when too many sounds are playing simultaneously"
   ],
   "changelogIt": [
     "Nuovo! Sistema di valutazione Performance",
@@ -46,10 +46,10 @@
   "channel": "dev",
   "updateType": "full",
   "checksum": {
-    "version": "1.5",
+    "version": "1.6",
     "algorithm": "SHA256",
     "type": "zip-file",
-    "value": "2be6fe72031c07d5dea2fcd17f185598d49f7c2d0e56db227a6cb8ede0e64295",
+    "value": "8f84fce2390c98a322de42c6d6231cf6511c81cd03825ecf902687b49fc39f80",
     "fileName": ""
   }
 }
