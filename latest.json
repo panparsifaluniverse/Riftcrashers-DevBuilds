@@ -15,8 +15,7 @@
     "Risolta l'incompatibilità con impostazioni di FPS inferiori; il gioco ora cerca di funzionare a 120 fps, poiché si tratta dell'impostazione ottimale",
     "Risolto il problema relativo alle dimensioni della schermata “Game Over” con risoluzioni inferiori",
     "Rinnovata la barra dei punti vita dei boss",
-    "Ribilanciato il combattimento contro i boss: ora offre più opportunità per attaccare in sicurezza",
-    "Tradotto con DeepL.com (versione gratuita)"
+    "Ribilanciato il combattimento contro i boss: ora offre più opportunità per attaccare in sicurezza"
   ],
   "channel": "dev",
   "updateType": "full",
