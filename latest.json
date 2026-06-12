@@ -1,29 +1,25 @@
 {
-  "latestVersion": "1.7",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.7/Riftcrashers_dev_build_1.7.zip",
-  "fileName": "Riftcrashers_dev_build_1.7.zip",
+  "latestVersion": "1.8",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.8/Riftcrashers_dev_build_1.8.zip",
+  "fileName": "Riftcrashers_dev_build_1.8.zip",
   "mandatory": true,
   "changelogEn": [
-    "Fixed some items were getting stuck on custom walls",
-    "Fixed Incompatibility with lower FPS settings, the game try to run at 120fps as it's optimal setting",
-    "Fixed Game over screen size on smaller resolutions",
-    "Revamped Boss HP Bar",
-    "Boss battle rebalanced, now it gives more windows to safely attack"
+    "New! Recovery vials added",
+    "New! Tracker, for elevator section",
+    "Fixed some minor bugs related to VFX"
   ],
   "changelogIt": [
-    "Risolto il problema per cui alcuni oggetti rimanevano incastrati sulle pareti personalizzate",
-    "Risolta l'incompatibilità con impostazioni di FPS inferiori; il gioco ora cerca di funzionare a 120 fps, poiché si tratta dell'impostazione ottimale",
-    "Risolto il problema relativo alle dimensioni della schermata “Game Over” con risoluzioni inferiori",
-    "Rinnovata la barra dei punti vita dei boss",
-    "Ribilanciato il combattimento contro i boss: ora offre più opportunità per attaccare in sicurezza"
+    "Nuovo! Pozioni di recupero aggiunte",
+    "Nuovo! Tracciatore, per la sezione dell'ascensore",
+    "Fixati alcuni bug minori riguardanti gli effetti visivi"
   ],
   "channel": "dev",
   "updateType": "full",
   "checksum": {
-    "version": "1.7",
+    "version": "1.8",
     "algorithm": "SHA256",
     "type": "zip-file",
-    "value": "c73a6ba86fc0962c49a45104cae746a7875acc2935416313213062d83ec87b83",
+    "value": "a34ebc04bf680fae59101dd6ecce8a84be6695146121c1f343ce8715b7026336",
     "fileName": ""
   }
 }
