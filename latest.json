@@ -1,33 +1,33 @@
 {
-  "latestVersion": "1.10",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.10/Riftcrashers_dev_build_1.10.zip",
-  "fileName": "Riftcrashers_dev_build_1.10.zip",
+  "latestVersion": "1.11",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11/Riftcrashers_dev_build_1.11.zip",
+  "fileName": "Riftcrashers_dev_build_1.11.zip",
   "mandatory": true,
   "changelogEn": [
-    "New: Naka Net Store, Naka’s shop where you can purchase various character upgrades. It is currently in testing, so not all items have been included yet and prices may change in the future.",
-    "New: Support Ultimate Skill “Bombardment”. It unlocks after reaching the maximum trust level with Naka and can be activated only once per run. It hits all visible enemies on screen and deals heavy damage: 1500% of the player’s attack + 800. Activation key: “Y” on keyboard or “L1 + Triangle” / “L1 + Y” on controller.",
-    "New: Draft version of cutscenes and character dialogues. Work in progress. You can press Enter or the Attack button on gamepad to speed up the dialogues.",
-    "New: Added new voice effects voiced by KiriPan for Block and Dodge.",
-    "Fix: The collider of the “Chicken” food item is now larger.",
-    "Fix: Arena adjustments to prevent enemies from remaining outside the perimeter.",
-    "Fix: Consuming MP no longer negatively affects the performance evaluation. Losing HP will now have a greater impact."
+    "New Area Dark Hangar, unlocked on the Tecnoplant Lower Sector Stage",
+    "New Rift Shield mechanic",
+    "New Dialogues",
+    "Rebalanced monsters",
+    "Rebalanced Performance scores",
+    "Added more Visual Effects",
+    "Fixed minor bugs"
   ],
   "changelogIt": [
-    "Nuovo: Naka Net Store, il negozio di Naka dove è possibile acquistare diversi upgrade per il personaggio. Attualmente è in fase di Test quindi non sono stati inclusi tutti gli oggetti ed i prezzi potrebbero cambiare in futuro.",
-    "Nuovo: Skill Ultimate di Supporto \"Bombardment\", si sblocca raggiungendo il livello massimo di fiducia con Naka e si può attivare una sola volta per run. colpisce tutti i nemici visibili sullo schermo e provoca danni elevati (1500% dell'attacco del player +800) Tasto di attivazione \"Y\" da tastiera o \"L1+Triangolo (o Y)\" da controller.",
-    "Nuovo: Bozza di Cutscene e Dialoghi tra i personaggi (Work In progress) Potete premere Invio o Attacco (Gamepad) per velocizzare i dialoghi.",
-    "Nuovo: Aggiunti nuovi effetti vocali doppiati da KiriPan per Parata, Schivata.",
-    "Fix: collider del cibo \"Pollo\" adesso è più ampio.",
-    "Fix: delle arene per evitare che i nemici restino fuori dal perimetro.",
-    "Fix: Consumare MP adesso non compromette più la valutazione di performance, peserà di più perdere HP."
+    "Sbloccata una nuova area\"Hangar Oscuro\" nel livello “Settore inferiore di Tecnoplant”",
+    "Nuova meccanica “Scudo del Rift\"",
+    "Nuovi dialoghi",
+    "Ribilanciamento dei mostri",
+    "Ribilanciamento delle prestazioni",
+    "Aggiunti ulteriori effetti visivi",
+    "Corretto alcuni bug minori"
   ],
   "channel": "dev",
   "updateType": "full",
   "checksum": {
-    "version": "1.10",
+    "version": "1.11",
     "algorithm": "SHA256",
     "type": "zip-file",
-    "value": "dd2bcd7970dcc94a518e81a7e5597e277f2b6ae73f350fc632af68312134209f",
+    "value": "f455eb677aafaf1bb4b74aaaf3c8d144a4b846a45249ef979dd30ef365b0a03d",
     "fileName": ""
   }
 }
