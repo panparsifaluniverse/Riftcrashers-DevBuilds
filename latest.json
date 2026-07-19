@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.11.2",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11.2/Riftcrashers_dev_build_1.11.2.zip",
-  "fileName": "Riftcrashers_dev_build_1.11.2.zip",
+  "latestVersion": "1.11.3",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11.3/Riftcrashers_dev_build_1.11.3.zip",
+  "fileName": "Riftcrashers_dev_build_1.11.3.zip",
   "mandatory": true,
   "changelogEn": [
     "New Area Dark Hangar, unlocked on the Tecnoplant Lower Sector Stage",
@@ -11,7 +11,7 @@
     "Rebalanced Performance scores",
     "Added more Visual Effects",
     "Naka's Animations speed improved",
-    "NNS: New style and new items added",
+    "NNS: New Style and new items added",
     "Fix Spawner, enemy should not get locked out anymore",
     "Kiri's attack have increased lane range",
     "Fixed minor bugs"
@@ -24,7 +24,7 @@
     "Ribilanciamento delle prestazioni",
     "Aggiunti ulteriori effetti visivi",
     "Animazioni di Naka Velocizzate",
-    "NNS: Nuovo stile e nuovi items aggiunti",
+    "NNS: Nuovo stile e nuovi oggetti aggiunti",
     "Fix Arene durante gli spawn i nemici non dovrebbero più bloccarsi",
     "Aumentata la portata in lane degli attacchi di Kiri",
     "Corretto alcuni bug minori"
@@ -32,10 +32,10 @@
   "channel": "dev",
   "updateType": "full",
   "checksum": {
-    "version": "1.11.2",
+    "version": "1.11.3",
     "algorithm": "SHA256",
     "type": "zip-file",
-    "value": "7906025378c2c7a78b4d058bb249518c99dac2725afebff4763b3c4423b95931",
+    "value": "19de51acd1f33f2d0d4cd61018c0b35fedf1a4e8d2cb4570dfbcfe5e9c6c28ce",
     "fileName": ""
   }
 }
