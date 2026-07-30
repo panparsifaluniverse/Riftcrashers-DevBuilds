@@ -1,33 +1,25 @@
 {
-  "latestVersion": "1.11.4",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11.4/Riftcrashers_dev_build_1.11.4.zip",
-  "fileName": "Riftcrashers_dev_build_1.11.4.zip",
+  "latestVersion": "1.11.5",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11.5/Riftcrashers_dev_build_1.11.5.zip",
+  "fileName": "Riftcrashers_dev_build_1.11.5.zip",
   "mandatory": true,
   "changelogEn": [
-    "New: \"Back Jump\" Evade action",
-    "New: \"Double Spin\" Counter attack performed automatically after a perfect Back Jump evasion",
-    "New: \"Rythm Breaker\" Special Skill #2 for Kiri, Required level 10 and 4 MP Segments to unlock (LV MAX for Testing)",
-    "Added new Voices and Sound Effect to the above features.",
-    "Change: The Dash action is now performed when keep pressing the direction and Dash button.",
-    "Known Issue:",
-    "Move control information are not updated, Im working on a dedicated page related to the controls."
+    "New: Ultra Skill (LB+RB)",
+    "New: Settings Page with Sound and Controls settings",
+    "New: Support for generic controllers (use Keyboard to set the commands on controls settings)"
   ],
   "changelogIt": [
-    "Nuovo: azione evasiva \"Back Jump\"",
-    "Nuovo: \"Double Spin\", contrattacco eseguito automaticamente dopo una schivata perfetta con Back Jump",
-    "Nuovo: \"Rythm Breaker\", Abilità Speciale #2 di Kiri. Richiede il livello 10 e 4 segmenti MP per essere sbloccata (LV MAX per i test)",
-    "Aggiunte nuove voci e nuovi effetti sonori per le funzionalità sopra indicate.",
-    "Modifica: ora l'azione Dash viene eseguita tenendo premuti contemporaneamente il tasto direzionale e il tasto Dash.",
-    "Problema noto:",
-    "Le informazioni relative ai comandi di movimento non sono ancora aggiornate. Sto lavorando a una pagina dedicata ai controlli."
+    "Novità: Ultra Skill (LB+RB)",
+    "Novità: Pagina delle impostazioni con opzioni relative all'audio e ai comandi",
+    "Novità: Supporto per controller generici (utilizzare la tastiera per impostare i comandi nelle impostazioni dei comandi)"
   ],
   "channel": "dev",
   "updateType": "full",
   "checksum": {
-    "version": "1.11.4",
+    "version": "1.11.5",
     "algorithm": "SHA256",
     "type": "zip-file",
-    "value": "4e706deac43973a590c34ae12f1bd8cc43ee22d675fe1568676c698b6f3fb511",
+    "value": "4fe1e1171a545f9e9692b9ba52eea88a14c77ea99b2c5f4a43f56d13bb1870d6",
     "fileName": ""
   }
 }
