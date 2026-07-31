@@ -1,25 +1,21 @@
 {
-  "latestVersion": "1.11.5",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11.5/Riftcrashers_dev_build_1.11.5.zip",
-  "fileName": "Riftcrashers_dev_build_1.11.5.zip",
+  "latestVersion": "1.11.6",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11.6/Riftcrashers_dev_build_1.11.6.zip",
+  "fileName": "Riftcrashers_dev_build_1.11.6.zip",
   "mandatory": true,
   "changelogEn": [
-    "New: Ultra Skill (LB+RB)",
-    "New: Settings Page with Sound and Controls settings",
-    "New: Support for generic controllers (use Keyboard to set the commands on controls settings)"
+    "Minor Bug Fixes"
   ],
   "changelogIt": [
-    "Novità: Ultra Skill (LB+RB)",
-    "Novità: Pagina delle impostazioni con opzioni relative all'audio e ai comandi",
-    "Novità: Supporto per controller generici (utilizzare la tastiera per impostare i comandi nelle impostazioni dei comandi)"
+    "Piccoli Bug Fix"
   ],
   "channel": "dev",
   "updateType": "full",
   "checksum": {
-    "version": "1.11.5",
+    "version": "1.11.6",
     "algorithm": "SHA256",
     "type": "zip-file",
-    "value": "4fe1e1171a545f9e9692b9ba52eea88a14c77ea99b2c5f4a43f56d13bb1870d6",
+    "value": "38958f3b5bbc152a6aeebb6698fda176a2c1f9b59c84ef86974b33ec5b43bebf",
     "fileName": ""
   }
 }
