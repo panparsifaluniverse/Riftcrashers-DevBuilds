@@ -1,31 +1,33 @@
 {
-  "latestVersion": "1.11.7",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11.7/Riftcrashers_dev_build_1.11.7.zip",
-  "fileName": "Riftcrashers_dev_build_1.11.7.zip",
+  "latestVersion": "1.11.8",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11.8/Riftcrashers_dev_build_1.11.8.zip",
+  "fileName": "Riftcrashers_dev_build_1.11.8.zip",
   "mandatory": true,
   "changelogEn": [
-    "- New: Triple Kick Move",
-    "- New: Language Settings, with English, Italian, French",
-    "- New: Dynamic Controls",
-    "- Added new VFX and SFX",
-    "- More Sprite reworked for UI",
-    "- Fixed some minor bugs"
+    "New: Triple Kick Move",
+    "New: Language Settings, with English, Italian, French",
+    "New: Dynamic Controls",
+    "Added Discord auto activity recognize",
+    "Added new VFX and SFX",
+    "More Sprite reworked for UI and Kiri",
+    "Fixed some minor bugs"
   ],
   "changelogIt": [
-    "- Novità: mossa “Triple Kick”",
-    "- Novità: impostazioni lingua, con inglese, italiano e francese",
-    "- Novità: comandi dinamici",
-    "- Aggiunti nuovi effetti visivi e sonori",
-    "- Ulteriori sprite rielaborati per l'interfaccia utente",
-    "- Risolti alcuni bug minori"
+    "Novità: mossa “Triple Kick”",
+    "Novità: impostazioni lingua, con inglese, italiano e francese",
+    "Novità: comandi dinamici",
+    "Aggiunto il riconoscimento automatico dell'attività su Discord",
+    "Aggiunti nuovi effetti visivi (VFX) ed effetti sonori (SFX)",
+    "Rielaborati ulteriori sprite per l'interfaccia utente e Kiri",
+    "Risolti alcuni bug minori"
   ],
   "channel": "dev",
   "updateType": "full",
   "checksum": {
-    "version": "1.11.7",
+    "version": "1.11.8",
     "algorithm": "SHA256",
     "type": "zip-file",
-    "value": "a8fdb6a9e201e3bc16fc7c774b6c9b7520f87e7a15d55975e60bf759742c9577",
+    "value": "0a5dbabd90fd9dbfb7e35826d0b248b528029547c33ac24d9b2fd97422928850",
     "fileName": ""
   }
 }
