@@ -1,33 +1,23 @@
 {
-  "latestVersion": "1.11.9",
-  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11.9/Riftcrashers_dev_build_1.11.9.zip",
-  "fileName": "Riftcrashers_dev_build_1.11.9.zip",
+  "latestVersion": "1.11.10",
+  "downloadUrl": "https://github.com/panparsifaluniverse/Riftcrashers-DevBuilds/releases/download/v1.11.10/Riftcrashers_dev_build_1.11.10.zip",
+  "fileName": "Riftcrashers_dev_build_1.11.10.zip",
   "mandatory": true,
   "changelogEn": [
-    "New: 90% ITALIAN Audio updated",
-    "New:  Heavy Attacks and Heavy Run Combo (Press Y or Triangle or N)",
-    "New: Autosave progress when player Die or Upgrade their stats or buy from NNS or complete a stage",
-    "New: Monsters auto balance their level to adapt and not get 1 shot (Stage have a level cap anyway)",
-    "New: Auto increase stage difficulty, if you manage to defeat the MAX Level BOSS at the end of the Test stage, the next time you start a run, the stage will be set to \"HARD\" difficutly and then to \"EXTREME\" difficulty. HARD Mode increase all enemies stats and rewards by 25% and EXTREME mode by 50%.",
-    "New: Now C2 robots can parry when under attack, be careful, and use the new Heavy combo to break their parry stance and send them in air!",
+    "New: Stat Upgrade System",
     "Minor Bug Fixes"
   ],
   "changelogIt": [
-    "Novità: audio al 90% in ITALIANO aggiornato",
-    "Novità: Attacchi potenti e combo di corsa potente (premi Y, Triangolo o N)",
-    "Novità: salvataggio automatico dei progressi quando il giocatore muore, potenzia le proprie statistiche, effettua acquisti da NNS o completa un livello",
-    "Novità: i mostri bilanciano automaticamente il proprio livello per adattarsi ed evitare di essere eliminati con un solo colpo (i livelli hanno comunque un limite massimo)",
-    "Novità: Aumento automatico della difficoltà dei livelli; se riesci a sconfiggere il BOSS di livello massimo alla fine del livello di prova, la prossima volta che inizi una partita, il livello sarà impostato sulla difficoltà “DIFFICILE” e successivamente su “ESTREMA”. La modalità DIFFICILE aumenta tutte le statistiche dei nemici e le ricompense del 25%, mentre la modalità ESTREMA del 50%.",
-    "Novità: ora i robot C2 possono parare quando vengono attaccati; fai attenzione e usa la nuova combo pesante per rompere la loro posizione di parata e lanciarli in aria!",
-    "Correzioni di bug minori"
+    "Nuovo: Systema di potenziamento statistiche",
+    "Fix di Bug minori"
   ],
   "channel": "dev",
   "updateType": "full",
   "checksum": {
-    "version": "1.11.9",
+    "version": "1.11.10",
     "algorithm": "SHA256",
     "type": "zip-file",
-    "value": "d717bd22f6f41f421e886cdfcbeb849173516f54a82b71a884add720bf51ac6c",
+    "value": "a0912a35db555ac285d5661c3fb70d73ef7d4646192b5d82917488ceb6c24975",
     "fileName": ""
   }
 }
